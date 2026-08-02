@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.right
+{
+    background-color: yellow;
+    color:black;
+    align-items: right;
+    font-size: 35px;
+}
+.left
+{
+    background-color: black;
+    color:white;
+    align-items: left;
+    font-size: 35px;
+}
