@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+
+*{
+    color:black;
+}
+p{
+    background-color: pink;
+}
+p.cooler
+{
+    font-size: 20px;
+}
+div.no2
+{
+    background-color: white;
+    color:blue;
+    font-size: 25px;
+    font-weight: bold;
+} 
+div.no4
+{
+    background-color: rgb(149, 253, 149);
+    color:black;
+    font-weight: bold;
+    font-size: 23px;
+} 
